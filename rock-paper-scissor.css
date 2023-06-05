@@ -1,0 +1,44 @@
+body{
+    background-color: black;
+    color: white;
+}
+
+h1{
+    font-size: 50px;
+    font-weight: bold;
+}
+.button-moves{
+       background-color: black; 
+       margin-right: 25px;
+       border: none;
+       cursor: pointer;
+}
+
+.emoji{
+    height: 160px;
+    border: 3px solid white;
+    padding: 20px;
+    border-radius: 100px;
+    margin-bottom: 40px;
+    margin-top: 25px;
+    
+}
+.js-score, .js-moves, .js-result{
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.scoreEmoji{
+    height: 60px;
+}
+
+.automatic{
+    width: 150px;
+    font-size: 25px;
+    color: white;
+    background-color: black;
+    border: 3px solid white;
+    padding: 10px;
+    border-radius: 30px;
+    cursor: pointer;
+}
